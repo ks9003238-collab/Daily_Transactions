@@ -74,7 +74,7 @@ This project focuses on analyzing daily household transactions and building a ma
 
 ### 5️⃣ Model Evaluation
 
-* **R² Score:** 0.96
+* **R² Score:** 0.86
 * Strong predictive performance on test data
 
 ---
